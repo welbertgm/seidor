@@ -1,0 +1,9 @@
+{
+
+    "secret": "386e504c5f9de36d020cc1f3a83ffa63",
+    "token_expires": 86400,
+    "salt_rounds": 10,
+    "algorithm": "aes-256-cbc",
+    "key": "MDJkYTA4NmJhZGRhOWNmMmU5YzQ0NjMxNDkxYmVkYmM=",
+    "response_mail": "welbertgm@yahoo.com.br"
+}

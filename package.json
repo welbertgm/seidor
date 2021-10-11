@@ -1,0 +1,17 @@
+{
+  "name": "seidor",
+  "version": "1.0.0",
+  "description": "Teste Seidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Welbert Moitinha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "node-cache": "^5.1.2",
+    "uuid": "^8.3.2"
+  }
+}
